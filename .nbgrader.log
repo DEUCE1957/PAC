@@ -1,0 +1,17 @@
+[ExtensionApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ExtensionApp | INFO] 
+[ExtensionApp | INFO] The installation of the nbgrader extensions are now managed through the
+[ExtensionApp | INFO] `jupyter nbextension` and `jupyter serverextension` commands.
+[ExtensionApp | INFO] 
+[ExtensionApp | INFO] To install and enable the nbextensions (assignment_list and create_assignment) run:
+[ExtensionApp | INFO] 
+[ExtensionApp | INFO]     $ jupyter nbextension install --sys-prefix --py nbgrader
+[ExtensionApp | INFO]     $ jupyter nbextension enable --sys-prefix --py nbgrader
+[ExtensionApp | INFO]     
+[ExtensionApp | INFO] To install the server extension (assignment_list) run:
+[ExtensionApp | INFO] 
+[ExtensionApp | INFO]     $ jupyter serverextension enable --sys-prefix --py nbgrader
+[ExtensionApp | INFO] 
+[ExtensionApp | INFO] To install for all users, replace `--sys-prefix` by `--system`.
+[ExtensionApp | INFO] To install only for the current user replace `--sys-prefix` by `--user`.
+[ExtensionApp | INFO] 
