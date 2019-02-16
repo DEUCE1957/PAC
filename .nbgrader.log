@@ -27,3 +27,66 @@
         file:///run/user/1000/jupyter/nbserver-5259-open.html
     Or copy and paste one of these URLs:
         http://localhost:8889/?token=c8da2457514b82f85e4d6746a1a3abc8c04622006294a1bc
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/deuce1957/Documents/PAC
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=de396b06e5ca1cf88a5f6e339e0975bf51f9094c6ab40c18
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-21158-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=de396b06e5ca1cf88a5f6e339e0975bf51f9094c6ab40c18
+[NotebookApp | INFO] Kernel started: db26ba0f-3283-4a17-b5a3-0aa0bd38dfc8
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel db26ba0f-3283-4a17-b5a3-0aa0bd38dfc8
+[NotebookApp | INFO] Kernel started: 3c204942-e78b-41cd-a014-451e41de5215
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3c204942-e78b-41cd-a014-451e41de5215
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/deuce1957/Documents/PAC
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=48e8085274a1307eb79808b868bfc8f05bfffde58a80e0eb
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-19267-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=48e8085274a1307eb79808b868bfc8f05bfffde58a80e0eb
+[NotebookApp | INFO] 302 GET / (127.0.0.1) 0.82ms
+[NotebookApp | INFO] 302 GET /tree? (127.0.0.1) 1.20ms
+[NotebookApp | INFO] 302 GET /?token=48e8085274a1307eb79808b868bfc8f05bfffde58a80e0eb (127.0.0.1) 0.46ms
+[NotebookApp | INFO] Kernel started: 913c6877-dd57-4175-9440-899583304e2c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 913c6877-dd57-4175-9440-899583304e2c
+[NotebookApp | INFO] Saving file at /The Python Argument Clinic.ipynb
+[NotebookApp | INFO] Saving file at /The Python Argument Clinic.ipynb
+[NotebookApp | INFO] Saving file at /The Python Argument Clinic.ipynb
+[NotebookApp | INFO] Saving file at /The Python Argument Clinic.ipynb
+[NotebookApp | INFO] Saving file at /The Python Argument Clinic.ipynb
+[NotebookApp | INFO] Saving file at /The Python Argument Clinic.ipynb
+[NotebookApp | INFO] Saving file at /The Python Argument Clinic.ipynb
+[NotebookApp | INFO] Saving file at /The Python Argument Clinic.ipynb
+[NotebookApp | INFO] Saving file at /The Python Argument Clinic.ipynb
+[NotebookApp | INFO] Saving file at /The Python Argument Clinic.ipynb
+[NotebookApp | INFO] Saving file at /The Python Argument Clinic.ipynb
+[NotebookApp | INFO] Saving file at /The Python Argument Clinic.ipynb
+[NotebookApp | INFO] Saving file at /The Python Argument Clinic.ipynb
+[NotebookApp | INFO] Saving file at /The Python Argument Clinic.ipynb
+[NotebookApp | INFO] Saving file at /The Python Argument Clinic.ipynb
+[NotebookApp | INFO] Saving file at /The Python Argument Clinic.ipynb
+[NotebookApp | INFO] Saving file at /The Python Argument Clinic.ipynb
+[NotebookApp | INFO] Saving file at /The Python Argument Clinic.ipynb
+[NotebookApp | INFO] Saving file at /The Python Argument Clinic.ipynb
+[NotebookApp | INFO] Saving file at /The Python Argument Clinic.ipynb
+[NotebookApp | INFO] Saving file at /The Python Argument Clinic.ipynb
+[NotebookApp | INFO] Saving file at /The Python Argument Clinic.ipynb
+[NotebookApp | INFO] Saving file at /The Python Argument Clinic.ipynb
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 913c6877-dd57-4175-9440-899583304e2c
